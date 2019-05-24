@@ -1,0 +1,21 @@
+h1 {
+    color:red;
+    border-color:purple;
+    border-width: 2px;
+border-style:  solid
+}
+
+li {
+    color: #000000
+}
+h4 {
+   background: #22f4b5
+}
+
+body {
+    background-color: green
+
+    /* background: url(https://www.dogster.com/wp-content/uploads/2017/07/A-dog-lying-in-a-field-of-flowers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover */
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "HTML beginner"
+		},
+		{
+			"path": "HTML_Intermediate"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML_Intermediate"
+	}
+}
